@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-With a background in computer science, I've developed a strong interest in cybersecurity, Python programming, and business intelligence. I enjoy building systems, solving problems, and exploring how technology can drive smarter decisions and stronger security. I'm currently growing my skills in security operations, data-driven insights, and software development, and I'm excited to contribute to projects that blend technical depth with real-world impact.
+With a background in computer science, I've developed a strong interest in cybersecurity, Python programming, and business intelligence. I enjoy building systems, solving problems, and exploring how technology can drive smarter decisions and stronger security. I'm currently growing my skills in security operations, data-driven insights, and programming, and I'm excited to contribute to projects that blend technical depth with real-world impact.
 
 ## Portfolio
 
@@ -15,9 +15,13 @@ With a background in computer science, I've developed a strong interest in cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| API Implementation and Log Analysis          | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection Lab</a>|
-| Python Scripting & Matric Analysis | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection Lab</a>|
+| API Implementation and Log Analysis          | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>|
+| Python Scripting & Matric Analysis | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>|
 
+## Projects
+- <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>
+- <a href="https://github.com/razihamza/Active-Directory-Project">Active Directory Project</a>
+- SOC Automation Project
 ## Tools & Technologies.
 - FASTAPI
 - Grafana
@@ -56,6 +60,3 @@ With a background in computer science, I've developed a strong interest in cyber
     <img src="https://img.shields.io/badge/-Cisco%20Junior%20Security%20Analyst-0033CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/razihamza/detection-monitoring-platform">Detection Lab</a>
-- SOC Automation Project
