@@ -15,8 +15,11 @@ With a background in computer science, I've developed a strong interest in cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| API Implementation and Log Analysis          | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>|
+| API Implementation and Log Analysis          | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>| 
 | Python Scripting & Matric Analysis | <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>|
+| Active Directory & Domain Controller | <a href="https://github.com/razihamza/Active-Directory-Project">Active Directory Project</a>|
+| SIEM Monitoring/Splunk | <a href="https://github.com/razihamza/Active-Directory-Project">Active Directory Project</a>|
+| Virtual Machines, Network Configuration | <a href="https://github.com/razihamza/Active-Directory-Project">Active Directory Project</a>|
 
 ## Projects
 - <a href="https://github.com/razihamza/detection-monitoring-platform">Detection & Monitoring Project</a>
