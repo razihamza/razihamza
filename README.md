@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Objective  
+##  Objective  
 Driven to solve real-world problems using secure systems and smart analytics.  
 Currently focused on:  
 - Security Operations (SOC)  
@@ -16,15 +16,15 @@ Currently focused on:
 
 ---
 
-## 📁 Featured Projects  
+##  Featured Projects  
 
-- 🔍 [Detection & Monitoring Platform](https://github.com/razihamza/detection-monitoring-platform)  
-- 🛡️ [Active Directory Setup & Log Analysis](https://github.com/razihamza/Active-Directory-Project)  
-- 🤖 SOC Automation (coming soon)
+-  [Detection & Monitoring Platform](https://github.com/razihamza/detection-monitoring-platform)  
+-  [Active Directory Setup & Log Analysis](https://github.com/razihamza/Active-Directory-Project)  
+-  SOC Automation (coming soon)
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 | Skill                          | Project Link                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ Currently focused on:
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 
 **Platforms & Monitoring**  
 - FASTAPI  
