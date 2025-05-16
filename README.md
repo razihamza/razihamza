@@ -62,7 +62,7 @@ Currently focused on:
 ## 📜 Certifications
 
 [![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c7e607cc-8cd1-4746-ba4b-3f8da7b0b84f/public_url)
-[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/acb9500f-5179-4ce0-b74b-6f60059e9bdb/public_url)
+[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/acb9500f-5179-4ce0-b74b-6f60059e9bdb/public_url)
 [![Cisco Security Analyst](https://img.shields.io/badge/-Cisco%20Junior%20Security%20Analyst-0033CC?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/dc31ecc9-7453-4195-84b8-8f1b22ee04ea/public_url)
 
 ---
