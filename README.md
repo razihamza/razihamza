@@ -1,10 +1,6 @@
 # 👋 Hello, I'm Razi  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razihamza)
 
-🎓 Recent graduate in Computer Science  
-🔐 Passionate about Cybersecurity, Python, and Business Intelligence  
-🛠️ Building systems that combine security, automation, and data-driven insights  
-
 ---
 
 ##  Objective  
