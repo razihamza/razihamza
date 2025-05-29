@@ -15,7 +15,8 @@ Currently focused on:
 ##  Featured Projects  
 
 -  [Detection & Monitoring Platform](https://github.com/razihamza/detection-monitoring-platform)  
--  [Active Directory Setup & Log Analysis](https://github.com/razihamza/Active-Directory-Project)  
+-  [Active Directory Setup & Log Analysis](https://github.com/razihamza/Active-Directory-Project)
+-  [SafeLine Web Application Firewall](https://github.com/razihamza)
 -  SOC Automation (coming soon)
 
 ---
@@ -29,6 +30,7 @@ Currently focused on:
 | Active Directory Setup        | [AD Project](https://github.com/razihamza/Active-Directory-Project)         |
 | Splunk & SIEM Monitoring      | [AD Project](https://github.com/razihamza/Active-Directory-Project)         |
 | Network Configuration (VMs)   | [AD Project](https://github.com/razihamza/Active-Directory-Project)         |
+| Firewall                      | [AD Project](https://github.com/razihamza/)         |
 
 ---
 
