@@ -42,7 +42,7 @@
 
 ### 🔗 Let's Connect
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/razihamza) — I regularly share learning updates and projects
-- 📂 [GitHub Projects](https://github.com/yourusername?tab=repositories) — Check out my Terraform, CI/CD, and AWS repos
+- 📂 [GitHub Projects](https://github.com/razihamza/projects) — Check out my Terraform, CI/CD, and AWS repos
 - 🌐 [Portfolio Website](https://yourname.dev) — Work in progress
 
 ---
