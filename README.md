@@ -1,66 +1,56 @@
-# 👋 Hello, I'm Razi  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razihamza)
+## 👋 Hey there, I'm [Your Name]
+
+ I'm an aspiring **Cloud & DevOps Engineer** with a background in Computer Science, hands-on IT administration, and a strong foundation in cloud security. I’m currently transitioning from IT support into **cloud infrastructure, automation, and DevOps pipelines** — with a focus on building real-world skills and career capital that makes a difference.
 
 ---
 
-##  Objective  
-Driven to solve real-world problems using secure systems and smart analytics.  
-Currently focused on:  
-- Security Operations (SOC)  
-- Python Scripting  
-- Data-Driven Insights  
+### 💼 My Background
+- 🎓 **B.E. in Computer Science & Engineering** – strong foundation in systems, networks, and programming
+- 🛠️ **Jr. IT Administrator** – 2+ years of hands-on experience with systems, users, and infrastructure
+- 🔐 **CompTIA Security+ Certified** – strong understanding of IAM, firewalls, secure networking
+- ☁️ Currently pursuing: **AWS Solutions Architect Associate**, with hands-on cloud labs and projects
 
 ---
 
-##  Featured Projects  
-
--  [Detection & Monitoring Platform](https://github.com/razihamza/detection-monitoring-platform)  
--  [Active Directory Setup & Log Analysis](https://github.com/razihamza/Active-Directory-Project)
--  [SafeLine Web Application Firewall](https://github.com/razihamza)
--  SOC Automation (coming soon)
-
----
-
-## Skills & Tools
-
-| Skill                          | Project Link                                                                 |
-|-------------------------------|------------------------------------------------------------------------------|
-| API & Log Analysis            | [Detection & Monitoring](https://github.com/razihamza/detection-monitoring-platform) |
-| Python Scripting & Metrics    | [Detection & Monitoring](https://github.com/razihamza/detection-monitoring-platform) |
-| Active Directory Setup        | [AD Project](https://github.com/razihamza/Active-Directory-Project)         |
-| Splunk & SIEM Monitoring      | [AD Project](https://github.com/razihamza/Active-Directory-Project)         |
-| Network Configuration (VMs)   | [AD Project](https://github.com/razihamza/Active-Directory-Project)         |
-| Firewall                      | [AD Project](https://github.com/razihamza/)         |
+### 🎯 My Focus Areas
+- ☁️ **Cloud Engineering** – AWS, IAM, EC2, S3, VPCs, RDS
+- 🛠️ **Infrastructure as Code** – Terraform, Git, CLI workflows
+- 🐳 **DevOps Tools** – Docker, GitHub Actions, CI/CD pipelines
+- 🔒 **Cloud Security** – IAM best practices, secure VPC design
+- 📦 **Version Control & Collaboration** – Git mastery, clean documentation
 
 ---
 
-## Tools & Technologies  
+### 🧪 Projects I'm Working On
+- ✅ Deploying multi-tier apps on AWS with Terraform
+- ✅ Automating EC2 provisioning using Ansible
+- ✅ Building CI/CD pipelines with GitHub Actions
+- ✅ Containerizing applications with Docker
+- ✅ Designing secure AWS environments using IAM + VPC
 
-**Platforms & Monitoring**  
-- FASTAPI  
-- Grafana  
-- Prometheus  
-
-**Network Tools**  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
-![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
-
-**Endpoint Security**  
-![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
-
-**SIEM**  
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
+> _All projects are built from scratch, documented, and versioned in GitHub._
 
 ---
 
-## 📜 Certifications
-
-[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c7e607cc-8cd1-4746-ba4b-3f8da7b0b84f/public_url)
-[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/acb9500f-5179-4ce0-b74b-6f60059e9bdb/public_url)
-[![Cisco Security Analyst](https://img.shields.io/badge/-Cisco%20Junior%20Security%20Analyst-0033CC?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/dc31ecc9-7453-4195-84b8-8f1b22ee04ea/public_url)
+### 🌱 What I'm Learning Right Now
+- AWS Cloud Architecture (preparing for **SAA-C03**)
+- Infrastructure Automation (Terraform, Git workflows)
+- CI/CD pipeline development (GitHub Actions, Docker)
+- Cloud-native security and monitoring (CloudWatch, IAM, logging)
 
 ---
+
+### 📚 My Mindset
+> “Be so good they can’t ignore you.” — I believe in **building rare and valuable skills**, not chasing titles.  
+I focus on **project-based learning**, consistent growth, and contributing to tools and teams that matter.
+
+---
+
+### 🔗 Let's Connect
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/your-profile) — I regularly share learning updates and projects
+- 📂 [GitHub Projects](https://github.com/yourusername?tab=repositories) — Check out my Terraform, CI/CD, and AWS repos
+- 🌐 [Portfolio Website](https://yourname.dev) (optional) — Work in progress
+
+---
+
+Thanks for visiting! If you’re building in cloud/DevOps or want to collaborate on automation projects, feel free to connect or reach out. Always open to learning and improving. 🔧
