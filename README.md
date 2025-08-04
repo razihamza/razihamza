@@ -1,12 +1,12 @@
-## 👋 Hey there, I'm [Your Name]
+## 👋 Hey there, I'm Razi
 
  I'm an aspiring **Cloud & DevOps Engineer** with a background in Computer Science, hands-on IT administration, and a strong foundation in cloud security. I’m currently transitioning from IT support into **cloud infrastructure, automation, and DevOps pipelines** — with a focus on building real-world skills and career capital that makes a difference.
 
 ---
 
 ### 💼 My Background
-- 🎓 **B.E. in Computer Science & Engineering** – strong foundation in systems, networks, and programming
-- 🛠️ **Jr. IT Administrator** – 2+ years of hands-on experience with systems, users, and infrastructure
+- 🎓 **B.Tech. in Computer Science & Engineering** – strong foundation in systems, networks, and programming
+- 🛠️ **Jr. IT Administrator** – + years of hands-on experience with systems, users, and infrastructure
 - 🔐 **CompTIA Security+ Certified** – strong understanding of IAM, firewalls, secure networking
 - ☁️ Currently pursuing: **AWS Solutions Architect Associate**, with hands-on cloud labs and projects
 
@@ -40,16 +40,10 @@
 
 ---
 
-### 📚 My Mindset
-> “Be so good they can’t ignore you.” — I believe in **building rare and valuable skills**, not chasing titles.  
-I focus on **project-based learning**, consistent growth, and contributing to tools and teams that matter.
-
----
-
 ### 🔗 Let's Connect
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/your-profile) — I regularly share learning updates and projects
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/razihamza) — I regularly share learning updates and projects
 - 📂 [GitHub Projects](https://github.com/yourusername?tab=repositories) — Check out my Terraform, CI/CD, and AWS repos
-- 🌐 [Portfolio Website](https://yourname.dev) (optional) — Work in progress
+- 🌐 [Portfolio Website](https://yourname.dev) — Work in progress
 
 ---
 
